@@ -70,4 +70,4 @@ def link_helper(query):
     string = "**Found Game!**\n" + gamename + "\n" + link
     return string
 
-bot.run('NjQwODIxNTMwODM3NjQ3Mzcw.XcATLg.v6TSAdP66WDal508r4XzHJhaOEo')
+bot.run('token')
